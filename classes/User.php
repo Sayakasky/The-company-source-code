@@ -161,6 +161,10 @@
 
         }
 
+        public function testOnly(){
+            die("This is a test");
+        }
+
 
 
 
