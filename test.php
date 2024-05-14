@@ -1,5 +1,6 @@
 <?php
     $name = "John";
-    echo "Hello, $name";
+    $last_name = "Smith";
+    echo "Hello, $name $last_name";
 ?>
 
